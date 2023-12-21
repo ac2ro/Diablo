@@ -49,3 +49,5 @@ You have to have ``python`` installed and ``pyinstaller`` to compile python sour
 
 #### Installation
 To start using diablo stealer simply download / clone the repository and download all the python lib requirements and then run ``python builder.py`` to start building stubs.
+
+If you get issues about requirements, run `req.bat`
